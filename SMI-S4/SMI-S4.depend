@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1709487453 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\smi-s4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listeDebut.h"
+
+1708941232 c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\smi-s4\tableuxcroissent.h
+
+1709489264 c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\smi-s4\listedebut.h
+
