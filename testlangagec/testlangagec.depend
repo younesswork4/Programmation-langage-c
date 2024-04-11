@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1709750569 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\testlangagec\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EX01.h"
+
+1709688267 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\testlangagec\exercice1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1709750651 c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\testlangagec\ex01.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1709767280 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\testlangagec\exemblecours.c
+	<stdio.h>
+

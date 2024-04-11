@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1710168722 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\file\main.c
+	<stdio.h>
+	<stdlib.h>
+	"testfile.h"
+
+1710169415 c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\file\testfile.h
+	<stdio.h>
+	<stdlib.h>
+

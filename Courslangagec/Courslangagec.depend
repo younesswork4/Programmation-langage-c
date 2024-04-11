@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709596747 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\courslangagec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

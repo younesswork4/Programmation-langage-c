@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1711388941 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\testlangagec\etudiant\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EX01.h"
+	<string.h>
+
+1711390180 c:\users\abdel\onedrive - um5.ac.ma\desktop\testlangagec\etudiant\ex01.h
+

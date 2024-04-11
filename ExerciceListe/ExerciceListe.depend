@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1711372002 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\testlangagec\exerciceliste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EX01.h"
+
+1711372166 c:\users\abdel\onedrive - um5.ac.ma\desktop\testlangagec\exerciceliste\ex01.h
+
+1711299047 c:\users\abdel\onedrive - um5.ac.ma\desktop\testlangagec\exerciceliste\ex03.h
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1710334460 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\listechainnee\main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+
+1711724804 c:\users\abdel\onedrive - um5.ac.ma\desktop\github\programmation-langage-c\listechainnee\liste.h
+	<stdio.h>
+	<stdlib.h>
+
