@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1713011962 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\testlangagec\pile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EX03.h"
+
+1713007264 c:\users\abdel\onedrive - um5.ac.ma\desktop\testlangagec\pile\ex01.h
+
+1713008110 c:\users\abdel\onedrive - um5.ac.ma\desktop\testlangagec\pile\ex02.h
+
+1713011580 source:c:\users\abdel\onedrive - um5.ac.ma\desktop\testlangagec\pile\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EX03.h"
+
+1713011121 c:\users\abdel\onedrive - um5.ac.ma\desktop\testlangagec\pile\ex03.h
+
